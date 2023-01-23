@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32823301894",
+    "project_id": "loginpruebaejercicio",
+    "storage_bucket": "loginpruebaejercicio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32823301894:android:a808707384e528606ff087",
+        "android_client_info": {
+          "package_name": "com.example.ejercicio1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32823301894-dj66ilbng74vs70qrlecnph1m3crdlv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQaUk8UAaJy7_WhwvrBEPGQVz9Zmi3ODs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32823301894-dj66ilbng74vs70qrlecnph1m3crdlv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
